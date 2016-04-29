@@ -132,7 +132,7 @@ h1 {
 
 .aboutmetext
 {
-    font-size: 2.5vw;
+    font-size: 1.9vw;
     font-weight: 600;
     display: block;
     background-color: black;
@@ -146,6 +146,9 @@ h1 {
     
 }
 
+a {
+    color: #0099ff;
+}
 
 .languagestext
 {
